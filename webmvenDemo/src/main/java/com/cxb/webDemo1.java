@@ -10,7 +10,7 @@ public class webDemo1 {
 		
 		//lala
 		System.out.println("这是一个case1");
-		
+		      
 	}
 	
 	@Test
